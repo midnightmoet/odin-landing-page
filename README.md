@@ -1,5 +1,5 @@
 # landing-page
-![Landing page](images/odin-page.png)
+![Landing page](images/odin-landing-page.png)
 
 ## About
 
